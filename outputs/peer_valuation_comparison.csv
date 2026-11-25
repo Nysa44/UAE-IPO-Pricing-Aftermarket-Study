@@ -1,0 +1,4 @@
+ipo_id,company,offer_pe,peer_average_pe,peer_count,offer_pe_discount_premium_pct
+IPO_DEMO_01,Illustrative Consumer Co,16.2,17.6,2,-0.0795454545454547
+IPO_DEMO_02,Illustrative Energy Co,14.8,15.75,2,-0.060317460317460325
+IPO_DEMO_03,Illustrative Logistics Co,19.5,20.6,2,-0.05339805825242727

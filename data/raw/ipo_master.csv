@@ -1,0 +1,4 @@
+ipo_id,company,exchange,sector,listing_date,currency,offer_price,shares_offered,gross_proceeds,market_cap_at_offer,subscription_multiple,offer_pe,offer_ev_ebitda,primary_source_title,primary_source_url,source_access_date,source_page,source_notes,data_status
+IPO_DEMO_01,Illustrative Consumer Co,ADX,Consumer,2025-02-03,AED,1.50,500000000,750000000,3000000000,18.4,16.2,,SYNTHETIC DEMO - NOT A REAL PROSPECTUS,,,,"Replace with official prospectus/listing notice",ILLUSTRATIVE
+IPO_DEMO_02,Illustrative Energy Co,DFM,Energy,2025-05-12,AED,2.20,350000000,770000000,4400000000,12.1,14.8,,SYNTHETIC DEMO - NOT A REAL PROSPECTUS,,,,"Replace with official prospectus/listing notice",ILLUSTRATIVE
+IPO_DEMO_03,Illustrative Logistics Co,ADX,Industrials,2025-09-08,AED,1.10,600000000,660000000,2200000000,31.7,19.5,,SYNTHETIC DEMO - NOT A REAL PROSPECTUS,,,,"Replace with official prospectus/listing notice",ILLUSTRATIVE

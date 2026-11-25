@@ -1,0 +1,13 @@
+{
+  "project_title": "UAE IPO Pricing & Aftermarket Study",
+  "data_mode": "ILLUSTRATIVE",
+  "currency": "AED",
+  "annualisation_days": 252,
+  "return_horizons_calendar_days": {
+    "1_week": 7,
+    "1_month": 30,
+    "3_months": 90
+  },
+  "market_index_name": "Relevant UAE market index",
+  "notes": "Demo data is synthetic. Replace with verified data before research use."
+}
